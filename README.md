@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @silasaygi
 - 👀 I’m interested in Data Science &  Artificial Intelligence
-- 🌱 I’m currently learning Python & Django
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me saygi.sila@gmail.com
 
